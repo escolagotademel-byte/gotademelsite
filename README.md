@@ -8,3 +8,12 @@ Atualizações desta versão:
 - imagens da seção Atividades sem títulos individuais
 - lista de atividades organizada em 3 colunas
 - imagens de vivências mantidas apenas como exemplos visuais
+
+
+## Mobile
+- menu compacto e toque facilitado
+- hero reorganizada para telas pequenas
+- galeria e atividades responsivas
+- WhatsApp com botão circular no celular
+- mapa e espaçamentos otimizados
+- suporte a safe areas em iPhone
