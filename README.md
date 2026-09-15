@@ -23,3 +23,10 @@ Atualizações desta versão:
 - seção Nosso Espaço subida na ordem da página
 - seção Atividades subida e intercalada com blocos de texto
 - redução da mancha amarela no mobile
+
+## Ajustes desta versão
+- contraste corrigido no CTA de WhatsApp do topo
+- equipe de apoio adicionada: Orientadora Educacional, Psicóloga e Nutricionista
+- links "Saiba mais" removidos dos cards de turmas
+- legenda alterada para "Cantinho de Sono"
+- foto do Cantinho de Sono recortada para retirar o extintor
