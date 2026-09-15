@@ -17,3 +17,9 @@ Atualizações desta versão:
 - WhatsApp com botão circular no celular
 - mapa e espaçamentos otimizados
 - suporte a safe areas em iPhone
+
+
+## Ajustes adicionais
+- seção Nosso Espaço subida na ordem da página
+- seção Atividades subida e intercalada com blocos de texto
+- redução da mancha amarela no mobile
