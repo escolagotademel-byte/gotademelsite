@@ -1,3 +1,4 @@
+
 const menuToggle = document.querySelector('.menu-toggle');
 const mainNav = document.querySelector('.main-nav');
 
@@ -24,13 +25,5 @@ const observer = new IntersectionObserver((entries) => {
 
 document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
 
-document.getElementById('year').textContent = new Date().getFullYear();
-
-const form = document.getElementById('contact-form');
-const toast = document.getElementById('toast');
-form?.addEventListener('submit', (event) => {
-  event.preventDefault();
-  toast.classList.add('show');
-  setTimeout(() => toast.classList.remove('show'), 3400);
-  form.reset();
-});
+const year = document.getElementById('year');
+if (year) year.textContent = new Date().getFullYear();

@@ -1,31 +1,19 @@
-# Site — Escola Gota de Mel
+# Escola Gota de Mel — site institucional
 
-Site institucional estático e responsivo, criado com HTML, CSS e JavaScript puro.
+Estrutura do projeto:
+- `index.html`
+- `styles.css`
+- `script.js`
+- `assets/` (logo e fotos da seção "Nosso Espaço")
 
-## Identidade visual
-O projeto usa como base as cores da logo enviada:
-- Azul principal: `#263572`
-- Azul escuro: `#18234F`
-- Amarelo: `#F7E80B`
-
-## Como abrir
+## Como usar
 1. Extraia o arquivo ZIP.
-2. Abra `index.html` no navegador.
-3. Para publicar, envie todos os arquivos e pastas para sua hospedagem.
+2. Abra `index.html` em qualquer navegador.
+3. Para publicar, envie os arquivos para sua hospedagem.
 
-## Arquivos
-- `index.html` — estrutura e conteúdo
-- `styles.css` — identidade visual e layout responsivo
-- `script.js` — menu mobile, animações e formulário demonstrativo
-- `assets/logo-gota-de-mel.png` — logo da escola
-
-## Antes de publicar
-Substitua no HTML:
-- endereço da escola;
-- telefone/WhatsApp;
-- e-mail;
-- horários;
-- segmentos reais oferecidos;
-- textos institucionais, caso queira usar a história oficial da escola.
-
-O formulário está em modo demonstrativo. Para receber mensagens de verdade, conecte-o a um backend, Formspree, WhatsApp, e-mail ou outro serviço.
+## Atualizações incluídas
+- remoção da seção de matrículas
+- botão flutuante de WhatsApp
+- seção "Nosso Espaço" com as fotos enviadas
+- leve aumento de brilho nas imagens usadas no site
+- contato com Google Maps incorporado
